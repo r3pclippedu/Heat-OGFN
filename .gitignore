@@ -2,10 +2,10 @@ ClientSettings/
 *.Sav
 node_modules/
 build
-.env
 package-lock.json
 missing-endpoints.json
 tokens.json
 state
 Config
 package-lock.json
+.env
