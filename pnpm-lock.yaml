@@ -12,8 +12,8 @@ dependencies:
     specifier: ^0.1.41
     version: 0.1.41
   '@upstash/redis':
-    specifier: ^1.22.0
-    version: 1.22.0
+    specifier: ^1.25.1
+    version: 1.25.1
   asteriasdk:
     specifier: ^1.0.1
     version: 1.0.1
@@ -1684,12 +1684,10 @@ packages:
     resolution: {integrity: sha512-QBCRpkCoGdtUgLzLHcA5E7Dg9fJNdhuZd6IshuPxmf3EbVqrslWVTHOIDEWGx//16FoMElpOXxIR3utIWsPoIA==}
     dev: true
 
-  /@upstash/redis@1.22.0:
-    resolution: {integrity: sha512-sXoJDoEqqik0HbrNE7yRWckOySEFsoBxfRdCgOqkc0w6py19ZZG50SpGkDDEUXSnBqP8VgGYXhWAiBpqxrt5oA==}
+  /@upstash/redis@1.25.1:
+    resolution: {integrity: sha512-ACj0GhJ4qrQyBshwFgPod6XufVEfKX2wcaihsEvSdLYnY+m+pa13kGt1RXm/yTHKf4TQi/Dy2A8z/y6WUEOmlg==}
     dependencies:
-      isomorphic-fetch: 3.0.0
-    transitivePeerDependencies:
-      - encoding
+      crypto-js: 4.2.0
     dev: false
 
   /@vladfrangu/async_event_emitter@2.2.2:
@@ -2259,6 +2257,10 @@ packages:
       shebang-command: 2.0.0
       which: 2.0.2
     dev: true
+
+  /crypto-js@4.2.0:
+    resolution: {integrity: sha512-KALDyEYgpY+Rlob/iriUtjV6d5Eq+Y191A5g4UqLAi8CyGP9N1+FdVbkc1SxKc2r4YAYqG8JzO2KGL+AizD70Q==}
+    dev: false
 
   /crypto-random-string@4.0.0:
     resolution: {integrity: sha512-x8dy3RnvYdlUcPOjkEHqozhiwzKNSq7GcPuXFbnyMOCHxX8V3OgIg/pYuabl2sbUPfIJaeAQB7PMOK8DFIdoRA==}
@@ -3164,7 +3166,7 @@ packages:
       range-parser: 1.2.1
       type-is: 1.6.18
       typed-emitter: 2.1.0
-      uWebSockets.js: github.com/uNetworking/uWebSockets.js/e6ecc2102d68d99dc35969b0898fbd201e0f252b
+      uWebSockets.js: git/github.com+uNetworking/uWebSockets.js/e6ecc2102d68d99dc35969b0898fbd201e0f252b
     dev: false
 
   /iconv-lite@0.4.24:
@@ -3551,15 +3553,6 @@ packages:
     resolution: {integrity: sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==}
     dev: true
 
-  /isomorphic-fetch@3.0.0:
-    resolution: {integrity: sha512-qvUtwJ3j6qwsF3jLxkZ72qCgjMysPzDfeV240JHiGZsANBYd+EEuu35v7dfrJ9Up0Ak07D7GGSkGhCHTqg/5wA==}
-    dependencies:
-      node-fetch: 2.7.0
-      whatwg-fetch: 3.6.19
-    transitivePeerDependencies:
-      - encoding
-    dev: false
-
   /issue-parser@6.0.0:
     resolution: {integrity: sha512-zKa/Dxq2lGsBIXQ7CUZWTHfvxPC2ej0KfO7fIPqLlHB9J2hJ7rGhZ5rilhuufylr4RXYPzJUeFjKxz305OsNlA==}
     engines: {node: '>=10.13'}
@@ -3757,6 +3750,7 @@ packages:
 
   /memory-pager@1.5.0:
     resolution: {integrity: sha512-ZS4Bp4r/Zoeq6+NLJpP+0Zzm0pR8whtGPf1XExKLJBAczGMnSi3It14OiNCStjQjM6NU1okjQGSxgEZN8eBYKg==}
+    requiresBuild: true
     dev: false
     optional: true
 
@@ -4765,6 +4759,7 @@ packages:
 
   /sparse-bitfield@3.0.3:
     resolution: {integrity: sha512-kvzhi7vqKTfkh0PZU+2D2PIllw2ymqJKujUcyPMd9Y75Nv4nPbGJZXNhxsgdQab2BmlDct1YnfQCguEvHr7VsQ==}
+    requiresBuild: true
     dependencies:
       memory-pager: 1.5.0
     dev: false
@@ -5203,10 +5198,6 @@ packages:
     engines: {node: '>=12'}
     dev: false
 
-  /whatwg-fetch@3.6.19:
-    resolution: {integrity: sha512-d67JP4dHSbm2TrpFj8AbO8DnL1JXL5J9u0Kq2xW6d0TFDbCA3Muhdt8orXC22utleTVj7Prqt82baN6RBvnEgw==}
-    dev: false
-
   /whatwg-url@11.0.0:
     resolution: {integrity: sha512-RKT8HExMpoYx4igMiVMY83lN6UeITKJlBQ+vR/8ZJ8OCdSiN3RwCq+9gH0+Xzj0+5IrM6i4j/6LuvzbZIQgEcQ==}
     engines: {node: '>=12'}
@@ -5387,8 +5378,8 @@ packages:
     resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
     dev: false
 
-  github.com/uNetworking/uWebSockets.js/e6ecc2102d68d99dc35969b0898fbd201e0f252b:
-    resolution: {tarball: https://codeload.github.com/uNetworking/uWebSockets.js/tar.gz/e6ecc2102d68d99dc35969b0898fbd201e0f252b}
+  git/github.com+uNetworking/uWebSockets.js/e6ecc2102d68d99dc35969b0898fbd201e0f252b:
+    resolution: {commit: e6ecc2102d68d99dc35969b0898fbd201e0f252b, repo: git@github.com:uNetworking/uWebSockets.js.git, type: git}
     name: uWebSockets.js
     version: 20.25.0
     dev: false
