@@ -32,7 +32,6 @@ interface iEnv {
     ENABLE_CROSS_BANS: boolean;
     ENABLE_CLOUD: boolean;
     DEBUG_LOG: boolean;
-    ALLOW_REBOOT: boolean;
 }
 
 interface iModules {
@@ -80,7 +79,6 @@ export class Safety {
         ENABLE_CROSS_BANS: this.convertToBool(process.env.ENABLE_CROSS_BANS, "ENABLE_CROSS_BANS"),
         ENABLE_CLOUD: this.convertToBool(process.env.ENABLE_CLOUD, "ENABLE_CLOUD"),
         DEBUG_LOG: this.convertToBool(process.env.DEBUG_LOG, "DEBUG_LOG"),
-        ALLOW_REBOOT: this.convertToBool(process.env.ALLOW_REBOOT, "ALLOW_REBOOT")
     };
 
     public modules: iModules = {
