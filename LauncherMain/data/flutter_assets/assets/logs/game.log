@@ -1,0 +1,850 @@
+LogPakFile: Display: Initialized I/O dispatcher
+FortniteGame/Content/Paks/global
+PP-Fixed/tree/1.4
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.pak.
+mpting to mount.
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient
+dowsClient"
+OodleCompression: Display: Oodle initializing compressor with Mermaid, level Normal, SpaceSpeed tradeoff 256
+LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogStreaming: Display: AsyncLoading2 - Initialized
+LogFort: Display: RigidBody LOD: -1
+1
+rofile and Rigid Body Node CVars
+LogFortSignificance: Display: Set Athena LogHAL: Display: Platform has ~ LogFortSignificance: Display: Set Athena SKVehicle budget to '2,3'
+stMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+LogFort: Display: Skinweight Mode: 1
+profile and Rigid Body Node CVars
+LogFort: Display: Skinweight from LOD: 2
+LogAnalytics: Display: [Fortnite.Fortnite] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 1.0.0 - ++Fortnite+Release-14.40-CL-14550713
+LogFortInstallBundleManager: Display: Initializing all bundle sources...
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Making Bundles for Bulk Build
+LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Fire Init Analytic: OK
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.ucas to Bundle Startup
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk0optional-WindowsClient.pak to Bundle SLogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk0optional-WindowsClient.ucas to Bundle StartupOptional
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk0optional-WindowsClient.utoc to Bundle StartupOptional
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.ucas to Bundle Lang.de
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.utoc to Bundle Lang.de
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.sig to Bundle Lang.fr
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.utoc to Bundle Lang.fr
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk7-WindowsClient.sig to Bundle Lang.pl
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk8-WindowsClient.sig to Bundle Lang.ru
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.sig to Bundle Lang.zh-CN
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.pak to Bundle Lang.zh-CN
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk11-WindowsClient.utoc to Bundle FortniteCampaign
+n
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk11_s1-WindowsClient.utoc to Bundle FortniteCampaign
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk10_s3-WindowsClient.ucas to Bundle FortniteBR
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk10_s14-WindowsClient.sig to Bundle FortniteBR
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk1005-WindowsClient.pak to Bundle FortniteBR
+
+
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.ucas to Bundle FortniteBR
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/global.utoc to Bundle FortniteBR
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Fire Init Analytic: OK
+LogFortInstallBundleManager: Display: All bundle sources done initializing
+LogFortInstallBundleManager: Display: Setting bundle source callback to update buLogFortInstallBundleManager: Display: Setting up analytics
+LogFortInstallBundleManager: Display: Fire Init Analytic: OK
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Content State for Lang.deOptionaLogFortnLogFortniteEarlyStartupPatcher: Display: Registering RequiredBundle -- Name:KairosCapture
+h-CNOptional
+
+LogFortInstallBundleManager: Display: Starting Request Lang.it
+atest client for Request Lang.fr, Content up to date
+ateLogLogFortInstallBundleManager: Display: Moving Request Lang.all from batch Cache to batch Install
+l
+
+l
+ent up to date
+LogFortInstallBundleManager: Display: Finishing Request Lang.es-ES with Result OK
+e sources!
+s-ES
+undles:1 | NumRequiredBundles:12
+LogFortInstallBundleManager: Display: 	State Mounting: Size - 0
+003369
+e - 0
+000055
+--------
+etedBundles:3 | NumRequiredBundles:12
+LogFortInstallBundleManager: Display: Mounting Paks for Request Lang.pl
+l bundle sources!
+g.pl
+edBundles:4 | NumRequiredBLogFortInsLogFortInstallBundleManager: Display: 	State Mounting: Time - 0.000063
+e - 0
+009392
+--------
+etedBundles:6 | NumRequiredBLogPakFileLogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient
+nk2-WindowsClLogFortInstallBundleLogFortInstallBundleManager: Display: 	State WaitingForShaderCache: Size - 0
+000012
+------LogPakFile: Display: LogIoDispatcher: DisLogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchuLogIoDispatcher: Display: ReadinLogFortInstalLogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/CLogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s21-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s21-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s20-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s20-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s20-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s19-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s19-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s19-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s18-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s18-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s18-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s17-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s17-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s17-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s16-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s16-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s16-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s15-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s15-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s15-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s14-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s14-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s14-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s13-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s13-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s13-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s12-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s12-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s12-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s11-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s11-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s11-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s10-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s10-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s10-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk1005-WindowsClient.pak 
+LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1001-WindowsClient.pak" until encryption key '2DCD2E2A9A816AA9035999F8E6F85F6E' becomes available
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10-WindowsClient.pak 
+ypLogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10-WindowsClient"
+LogFortInstallBundleManager: Display: Bundle Lang.es-419 done waiting for all bundle sources!
+-419
+ndles:11 | NumRequiredBundles:12
+LogFortniteEarlyStartupPatcher: Display: BundleInstallComplete -- Name:Lang.es-419 | bBundleCompletedSuccessfully:1
+LogFortInstallBundleManager: Display: ----------------------------------LogFortInstallBundleManager: Display: Removing Request Lang.es-419
+-------------------------
+LogFortniteEarlyStartupPatcher: Display: OnStop called for FFortniteEarlyPreLoadScreen
+LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+LogGauntlet: Display: Gauntlet Initialized
+LogWebAuth: Display: FWebAuthModule::StartupModule: WebAuth Module not implemented on this platform
+LogStreaming: Display: AsyncLoading2 - Thread Started: true, IsInitialLoad: false
+LogInit: Display: Limiting process virtual memory size to 17000000 KB
+LogStreaming: Display: AsyncLoading2 - InitialLoad Finalized: 51557 script object entries in 1346.38 KB
+LogConsoleResponse: Display: RHIThread is disabled.
+skWithComparison failed to set a new mask because the cache was not open or game mask is not enabled
+LogRHI: Display: ShaderPipelineCache::SetGameUsageMaskWithComparison failed to set a new mask because the cache was not open or game mask is not enabled
+LogAssetManager: Display: Ignoring PrimaryAssetType WorldItem - Conflicts with Ammo
+LogAssetManager: Display: Ignoring PrimaryAssetType WorldItem - Conflicts with Trap
+n
+LogAssetManager: Display: Ignoring PrimaryAssetType WorldItem - Conflicts with Ingredient
+LogAssetManager: Display: Ignoring PrimaryAssetType Gadget - Conflicts with AthenaGadget
+LogAssetManager: Display: Ignoring PrimaryAssetType Token - Conflicts with DailyRewardScheduleToken
+LogAssetManager: Display: Ignoring PrimaryAssetType DailyRewardScheduleToken - Conflicts with Token
+LogAssetManager: Display: Ignoring PrimaryAssetType Weapon - Conflicts with Deco
+LogAssetManager: Display: Ignoring PrimaryAssetType Weapon - Conflicts with Consumable
+LogAssetManager: Display: Ignoring PrimaryAssetType Consumable - Conflicts with Weapon
+LogAssetManager: Display: Ignoring PrimaryAssetType Worker - Conflicts with Hero
+LogFort: Display: Startup job "InitializeAbilitySystem()" starting
+LogFort: Display: Startup job "InitializeCurie()" starting
+ook 0.04 seconds to complete
+LogFort: Display: Startup job "InitializeCurie()" took 0.07 seconds to complete
+LogFort: Display: Startup job "GetGameData()" starting
+)" took 0.01 seconds to complete
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogFort: Display: Startup job "GetGameData()" took 0.04 seconds to complete
+LogFort: Display: Startup job "GetGameDataCosmetics()" starting
+LogFort: Display: Startup job "GetGameDataBR()" starting
+ok 0.01 seconds to complete
+LogFort: Display: Startup job "GetGameDataBR()" took 0.19 seconds to complete
+LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" starting
+conds to complete
+LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+ seconds to complete
+lete
+LogFort: Display: All startup jobs took 1.98 seconds to complete
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogFort: Display: FortGameFeaturePluginManager is loading enabled non-hotfixable features...
+LogConsoleResponse: Display: Apply Settings:
+UsageMaskWithComparison failed to set a new mask because the cache was not open or game mask is not enabled
+LogRHI: Display: ShaderPipelineCache::SetGameUsageMaskWithComparison failed to set a new mask because the cache was not open or game mask is not enabled
+LogBlueprintContext: Display: Creating blueprint contexts for Local Player ' FortLocalPlayer_2147482443 ' of Game Instance ' FortGameInstance_2147482550 '
+LogBlueprintContext: Display: Created Blueprint Context 'HomeBaseContext' for Local Player 'FortLocalPlayer_2147482443'
+
+443'
+LogBlueprintContext: Display: Created Blueprint Context 'FortMatchmakingContext' for Local Player 'FortLocalPlayer_21474824LogBluepLogStreaming: Warning: LoadPackage: SkipPackage: /Extra/Interop_CoroutineContext (0x9D0BBC57A75FDC06) - The package to load does not exist on disk or in the loader
+LogSolarisInterop: Error: Failed to load script class: /Extra/Interop_CoroutineContext.CoroutineContext
+LogCore: Display: Starting with HitchHeartbeat suspended
+atePending
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 135.0000s. New present duration: 0.0000s.
+LogConsoleResponse: Display: RHIThread is disabled.
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogStreaming: Display: 1.686600 ms for processing 11770/18500 objects in NotifyUnreachableObjects. Removed 4215/4215 (49007->44792 tracked) packages and 7555/7555 (65217->57662 tracked) public exports.
+LogFortUI: Display: [UFortRootViewportLayout::SetLegacyUIState] Switching states from: Invalid to Invalid
+LogFortUI: Display: UI State changing from [None] to [UI.State.Startup.Login]
+LogFortUI: Display: [UFortRootViewportLayout::SetLegacyUIState] Switching states from: Invalid to Invalid
+LogOnline: Display: [UFortSplashScreenWidget] Unbind game bootable invite delegate
+ delegate
+LogHotfixManager: Display: Update already in progress
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogFortniteEarlyStartupPatcher: Display: CleanUp called for FFortniteEarlyPreLoadScreen
+LogFortInstallBundleManager: Display: Requesting Bundle KairosCaptureOptional
+ent State for Lang.plOptional
+al
+
+l
+y to the widget as a last resort.
+LogFort: Display: Found content versions from MinVersion None to MaxVersion None. Current Version None
+onal
+ional
+LogLogFort:LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Content State for FortniteCreatiLogFortInstLogFortInstallBundleManager: Display: Skipped Checking Prereq latest client for Request Lang.itOptional, CLogFortInstallBundleManaLogFortInstallBundleManager: Display: Moving Request FortniteCampaign from batch Cache to batch Install
+OptioLogFortInstallBundleManager: DisLogFortInstallBundleManager: Display: Mounting Paks for Request FortniteCampaign
+ntent/Paks/pakchunk11_s1-WindowsClient.pak 
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk11_s1-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk11-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk11-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk11-WindowsClient"
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Bundle Lang.itOptioLogFLogFortInstallBundleManager: Display: End Bundle Request Stats - FortniteBROptional
+--------
+es!
+onLogLogFortInstallBundleManager: Display: 	State Mounting: Size - 0
+000036
+e - 0
+012011
+l
+Result OK
+e soLogFortInstaLogFortInstallBundleManager: Display: Total Time 0.214005
+ - FortniteCampaignTutorialOptional
+ResultLogFortInstallBundleLogFortInstallBundleManager: Display: Bundle Lang.ruOptional done waiting for LogFortILogFortInstallBunLogFortInstallBundleManager: Display: ------------------------------LogFortInstallBundleManaLLogFortInstallBundleManager: Display: 	State WaitingForShaderCache: Time - 0.0LogFortInstallBundleManager:LogFortInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000
+-LogFortInstallBLogFortInsLogFortInstallBundleManager: Display: 	State Mounting: Size - 0
+012877
+e - 0
+00LogFortInsLogFortInstallBundleManager: Display: --LogFortInstallBundleManager: DisplLogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+orial
+------------
+LogPatchCheck: Display: [EnvironmentWantsPatchCheck] Backend Prod wants a patch check!
+LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+LogHotfixManager: Warning: Specified per-object class Prod was not found
+LogQos: Display: AutoRegion OCE: 1 datacenters available
+LogQos: Display: AutoRegion ME: 3 datacenters available
+e
+LogHotfixManager: Display: No assets were found in the 'AssetHotfix' section in the Game .ini file.  No patching needed.
+pter]. If you are using this on the command line, use -PartySystemVersion=2 instead.
+LogHotfixManager: Display: OnHotfixCheckComplete 1
+LogHotfixManager: Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+LogFort: Display: Game feature 'ComicReader' transitioning state (Mounting -> WaitingForDependencies)
+r.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'ComicReader' transitioning state (WaitingForDependencies -> Registering)
+Neonite++ for the signatures and curl hook -LogIoDispatcher: Display: Reading toc: ../../../FortnitLogPakFile: Display: InitiLogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.pak.
+lient"
+to mount.
+OodleCompression: Display: Oodle initializing compressor with Mermaid, level Normal, SpaceSpeed tradeoff 256
+LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogStreaming: Display: AsyncLoading2 - Initialized
+LogFort: Display: RigidBody Node: 1
+1
+rofile and Rigid Body Node CVars
+LogFortSignificance: Display: Set Athena Player Pawn URO interpolation to '1,1,1,1'
+LogFortSignificance: Display: Set Athena Player Pawn movement budget to '5,5,15'
+LogFortSignificance: Display: Set Athena SKVehicle budget to '2,3'
+ars
+ which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+LogFort: Display: Skinweight from LOD: 2
+LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2698 unique shaders.
+LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+LogTemp: Warning: Clearing the OS Cache
+Cobalt v0.1 initialized sucessfully.
+LogAnalytics: Display: [Fortnite.Fortnite] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 1.0.0 - ++Fortnite+Release-14.40-CL-14550713
+LogFortInstallBundleManager: Display: Initializing all bundle sources...
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Making Bundles for Bulk Build
+LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Fire Init Analytic: OK
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.ucas to Bundle Startup
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk0optional-WindowsClient.pak to Bundle SLogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk0optional-WindowsClient.sig to Bundle StartupOptional
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk0optional-WindowsClient.utoc to Bundle StartupOptional
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.ucas to Bundle Lang.de
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.utoc to Bundle Lang.de
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.ucas to Bundle Lang.fr
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.utoc to Bundle Lang.fr
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk7-WindowsClient.sig to Bundle Lang.pl
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk8-WindowsClient.sig to Bundle Lang.ru
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.utoc to Bundle Lang.zh-LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.ucas to Bundle Lang.zh-CN
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk11-WindowsClient.sig to Bundle FortniteCampaign
+gn
+
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk11_s1-WindowsClient.utoc to Bundle FortniteCampaign
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk10_s4-WindowsClient.ucas to Bundle FortniteBR
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk10_s19-WindowsClient.pak to Bundle FortniteBRLoLogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk10_s11-WindowsClient.utoc to Bundle FortniteBLoLogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakchunk1001-WindowsClient.utoc to Bundle FortniteBR
+LLogFortInstallBundleManager: Display: InstallBundleSourceBulk: Adding ../../../FortniteGame/Content/Paks/pakChunkEarly-WindowsClient.utoc to Bundle FortniteBR
+LogFortInstallBundleManager: Display: Querying bundle sources for bundle inLogFortInstallBundleManager: Display: Setting up analytics
+dle info querys complete
+e info...
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Content State for Lang.ruOptionaLogFortILogFortInstallBundleManager: Display: Adding Request Lang.ru to batch Cache
+he
+he
+quest Lang.zh-CN, ConLogFortInstallBundlLogFortInstallBundleManager: Display: Mounting Paks for RLogFortInstallBundleManagLogFortInstallBundleManager: DLogFortInstallBundleManager: Display: 	State ReservingCache: Time - 0.000000LogFortInstallBLogFortInsLogFortInstallBundleManager: DLogFortInstallBundleManager: Display: BuLogIoDispatcher: Display: Reading toc: ../../../ForLogFortInsLogFortInstallBundleManager: Display: No PSO cache to wait oLogFortniteEarlyStartupPatcher: Display: BundleInstallCompletLogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient"
+lient.pak 
+undles:12
+LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library FortniteGame
+for precompile.
+ushaderbytecode for material shader code. Total 286302 unique shaders.
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s8-WindowsClient.pak 
+les:12
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s5-WindowsClient
+_s5-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s21-WindowsClient
+s21-WindowsClient.pak 
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s21-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s20-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s20-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s20-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s19-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s19-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s19-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s18-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s18-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s18-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s17-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s17-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s17-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s16-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s16-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s16-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s15-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s15-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s15-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s14-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s14-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s14-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s13-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s13-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s13-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s12-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s12-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s12-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s11-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s11-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s11-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s10-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s10-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s10-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk1005-WindowsClient.pak 
+LogPakFile: Display: Deferring mount of pak "../../../FortniteGame/Content/Paks/pakchunk1001-WindowsClient.pak" until encryption key '2DCD2E2A9A816AA9035999F8E6F85F6E' becomes available
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk10-WindowsClient.pak 
+ypLogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk10-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk10-WindowsClient"
+LogFortInstallBundleManager: Display: InstallBundleSourceGameCustom: Requesting Bundle Lang.es-419
+ndles:11 | NumRequiredBundles:12
+LogFortInstallBundleManager: Display: Finishing Request Lang.es-419 with Result OK
+| bBundleCompletedSuccessfully:1
+LogFortInstallBundleManager: Display: Removing Request Lang.es-419
+-------------------------
+etedBundles:12 | NumRequiredBundles:12
+LogFortniteEarlyStartupPatcher: Display: OnStop called for FFortniteEarlyPreLoadScreen
+LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+LogGauntlet: Display: Gauntlet Initialized
+LogWebAuth: Display: FWebAuthModule::StartupModule: WebAuth Module not implemented on this platform
+LogStreaming: Display: AsyncLoading2 - Thread Started: true, IsInitialLoad: false
+LogMoviePlayer: Warning: PassLoadingScreenWindowBackToGame failed.  No Window
+LogInit: Display: Limiting process virtual memory size to 17000000 KB
+LogStreaming: Display: AsyncLoading2 - InitialLoad Finalized: 51557 script object entries in 1346.38 KB
+LogRHI: Display: ShaderPipelineCache::SetGameUsageMaskWithComparison set a new mask but did not attempt to setup any tasks because the cache was not open
+LogRHI: Display: Applied New ShaderPipelineCache GameUsageMask [UserMask=65535 | Playlist=2 | Material=0 | Shadow=0 | Foliage=0]
+LogAssetManager: Display: Ignoring PrimaryAssetType WorldItem - Conflicts with Ammo
+LogAssetManager: Display: Ignoring PrimaryAssetType WorldItem - Conflicts with Trap
+n
+LogAssetManager: Display: Ignoring PrimaryAssetType WorldItem - Conflicts with Ingredient
+LogAssetManager: Display: Ignoring PrimaryAssetType Gadget - Conflicts with AthenaGadget
+LogAssetManager: Display: Ignoring PrimaryAssetType Token - Conflicts with DailyRewardScheduleToken
+LogAssetManager: Display: Ignoring PrimaryAssetType DailyRewardScheduleToken - Conflicts with Token
+LogAssetManager: Display: Ignoring PrimaryAssetType Weapon - Conflicts with Deco
+LogAssetManager: Display: Ignoring PrimaryAssetType Weapon - Conflicts with Consumable
+LogAssetManager: Display: Ignoring PrimaryAssetType Consumable - Conflicts with Weapon
+LogAssetManager: Display: Ignoring PrimaryAssetType Worker - Conflicts with Hero
+LogFort: Display: Startup job "InitializeAbilitySystem()" starting
+LogFort: Display: Startup job "InitializeAbilitySystem()" took 0.05 seconds to complete
+LogFort: Display: Startup job "InitializeCurie()" starting
+LogFort: Display: Startup job "InitializeCurie()" took 0.13 seconds to complete
+LogFort: Display: Startup job "ScanForNavAgentCostData()" starting
+LogFort: Display: Startup job "GetGameData()" starting
+)" took 0.01 seconds to complete
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogFort: Display: Startup job "GetGameData()" took 0.06 seconds to complete
+LogFort: Display: Startup job "GetGameDataBR()" starting
+ok 0.01 seconds to complete
+LogFort: Display: Startup job "GetGameDataBR()" took 0.31 seconds to complete
+LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" took 1.61 seconds to complete
+LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" starting
+LogAudioMixer: Display: Initializing audio mixer.
+rkers:		  0
+256
+
+ook 0.00 seconds to complete
+lete
+LogAudioMixer: Display: 1: FrontRight
+ was dynamically loaded.
+LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+LogAudioMixer: Display: Creating Master Submix 'FortnitLogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+(0x30C8723EB0E7B477) - The package to load does not exist on disk or in the loader
+ating 'Resonance Reverb Submix' as stub.
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogFort: Display: FortGameFeaturePluginManager is loading enabled non-hotfixable features...
+LogConsoleResponse: Display: Apply Settings:
+UsageMaskWithComparison set a new mask but did not attempt to setup any tasks because the cache was not open
+LogRHI: Display: Applied New ShaderPipelineCache GameUsageMask [UserMask=65535 | Playlist=2 | Material=0 | Shadow=0 | Foliage=0]
+LogGfeSDK: Error: Failed to create GfeSDK: -1024
+ME    CoreCInterface.cpp:79   Error: failed initializing SDK -1024
+ERR_IPC_FAILED Error joining the MessageBus
+LogStreaming: Warning: Failed to read file 'C:/Users/aryLogBlueprintContext: Display: Created Blueprint Context 'FortReplayConteLogBlueprintContext: Display: Created Blueprint Context 'FortAbilitySystemContext' LogStreaming: Warning: LoadPackage: SkipPackage:LogUObjectGlobals: Warning: Failed to find object 'Class /Extra/Interop_CoroutineContext.CoroutineContext'
+e loader
+LogSolarisInterop: Error: Failed to load script class: /Extra/Interop_CoroutineContext.CoroutineContext
+LogFortLoadingScreen: Error: HasActivePreLoadScreenType(EngineLoadingScreen) Is True, Unable to Show Player Loading Screen
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogStreaming: Display: 1.728300 ms for processing 11770/18501 objects in NotifyUnreachableObjects. Removed 4215/4215 (49004->44789 tracked) packages and 7555/7555 (65214->57659 tracked) public exports.
+LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+tes from: Invalid to Invalid
+LogFortUI: Display: UI State changing from [None] to [UI.State.Startup.Login]
+LogFortUI: Display: [UFortRootViewportLayout::SetLegacyUIState] Switching states from: Invalid to Invalid
+LogOnline: Display: [UFortSplashScreenWidget] Bind game activity activation request delegate
+LogHotfixManager: Display: Update already in progress
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 135.0000s. New present duration: 0.0000s.
+LogResonanceAudio: Display: Resonance Audio Listener is initialized
+LogFortniteEarlyStartupPatcher: Display: CleanUp called for FFortniteEarlyPreLoadScreen
+LogFortInstallBundleManager: Display: InstallBundleSourceBulk: Requesting Content State for Lang.ruOptional
+nal
+l
+yLogFortInstallBundleManager: DispLogFortInstallBundleManager: Display: Requesting Bundle FortniteCreative
+utorial
+LogFort: Display: Setup FBuLogFortInLogFort:LogFortInstallBundleManager: Display: Adding Request FortniteCampaign to LogFortInstallBundleManagerLogForLogFortInstallBundleManager: Display: Moving Request KairosCaptureOptional from batch Cache to batch Install
+s1-WindowsClient
+_s1-WindowsClient.pak 
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk11_s1-WindowsClient"
+LogFortInstallBundleManager: Display: Mounting pak file: ../../../FortniteGame/Content/Paks/pakchunk11-WindowsClient.pak 
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk11-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk11-WindowsClient"
+LogFortInstallBundleManager: Display: Bundle Lang.itOptional done waiting for all bundle sourLogFortInsLogFortInstallBundleManager: Display: 	State Mounting: Time - 0.000020
+e - 0
+LogForLogFortLogFortInstallBundleManager: Display: End Bundle ReLogFortInstallBundleManager: Display: Total TLogFortInstallBundleManager: Display: 	State UpdatingBundleSources:LogFortInstallBundleManager: Display: BLogForLogFortInstallBundleManager: Display: No PSO cache to wait on for Lang.zh-CLogFortInstallBundleManLogFortILogFortInstallBundleManager: Display: 	State Finishing: Size -LogFortInstallBundleManager: DispLogFortILogFortInstallBundleManager: Display: 	State Finishing: Time - 0.000LogFortInstallBundleManagerLogFortInstallBundleManager: Display: 	State UpdatingBundleSources: Time - 0.000LogFortInstalLogFortInstalLogFortInstallBundleManager: Display: ---------------------------------------LogLogFortInstallBundleManaLogFortInstallBundleManager: Display: 	State Finishing: Time - 0.0LogFortInstallBundleManager: Display: 	LogFortInstallBundleManager: Display: 	State WaitingForShaderCachLogFortInstallBundleManager: Display: Removing Request FortniteCampaignTutorial
+------------
+LogPatchCheck: Display: [EnvironmentWantsPatchCheck] Backend Prod wants a patch check!
+LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+LogHotfixManager: Warning: Specified per-object class Prod was not found
+LogQos: Display: AutoRegion NAW: 2 datacenters available
+LogQos: Display: AutoRegion ME: 3 datacenters available
+e
+LogHotfixManager: Display: No assets were found in the 'AssetHotfix' section in the Game .ini file.  No patching needed.
+pter]. If you are using this on the command line, use -PartySystemVersion=2 instead.
+LogHotfixManager: Display: OnHotfixCheckComplete 1
+LogHotfixManager: Display: CheckComplete UpdateSuccess
+lLoad -> InitialLoadCompletLoLogFort: Display: Game feature 'Buddy' transitioning state (Mounting -> WaitingForDependencies)
+n' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'ComicReader' transitioning state (Mounting -> WaitingForDependencies)
+r.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'ComicReader' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'ComicReader' transitioning state (Registered -> Loading)
+ed)
+LogFort: Display: Game feature 'EffectZones' transitioning state (Installed -> Mounting)
+ependencies)
+s.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000
+LogFort: Display: Game feature 'EventMode' transitioning state (Mounting -> WaitingForDependencies)
+uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'EventMode' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'EventMode' transitioning state (Registered -> Loading)
+ed)
+LogFort: Display: Game feature 'FortniteConversation' transitioning state (CheckingStatus -> StatusKnown)
+ies)
+nversation.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'FortniteConversation' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'FortniteConversation' transitioning state (Loaded -> Activating)
+
+ed)
+LogFort: Display: Game feature 'Mantis' transitioning state (Installed -> Mounting)
+d)
+own)
+s.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'Mantis' transitioning state (Mounting -> WaitingForDependencies)
+LogFort: Display: Game feature 'Mantis' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'Mantis' transitioning state (Loading -> Loaded)
+ng)
+ed)
+LogFort: Display: Game feature 'HighTower' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'HighTower' transitioning state (Registering -> Registered)
+LogFort: Display: Game feature 'HighTower' transitioning state (Registered -> Loading)
+LogFort: Display: Game feature 'HighTower' transitioning state (Loading -> Loaded)
+LogFort: Display: Game feature 'Gasket' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'Gasket' transitioning state (Registering -> Registered)
+LogFort: Display: Game feature 'Gasket' transitioning state (Loading -> Loaded)
+ng)
+LogFort: Display: Game feature 'Hoagie' transitioning state (Installed -> Mounting)
+d)
+own)
+e.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'Hoagie' transitioning state (Mounting -> WaitingForDependencies)
+LogFort: Display: Game feature 'Hoagie' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'Hoagie' transitioning state (Registering -> Registered)
+LogFort: Display: Game feature 'Hoagie' transitioning state (Loading -> Loaded)
+ng)
+LogFort: Display: Game feature 'Lager' transitioning state (Loaded -> Activating)
+
+ed)
+egistering)
+' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'LowTower' transitioning state (Mounting -> WaitingForDependencies)
+plugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'LowTower' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'LowTower' transitioning state (Registering -> Registered)
+LogFort: Display: Game feature 'Valet' transitioning state (Installed -> Mounting)
+d)
+LogFort: Display: Game feature 'Valet' transitioning state (WaitingForDepLogFort: Display: Game feature 'Argon' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'ArsenicCore' transitioning state (Mounting -> WaitingFoLogFort: Display: Game feature 'SrirachaRanch' transitioning state (Mounting -> WaitLogFort: Display: Game feature 'SrirachaRanch' transitioning state (Loading -> Loaded)
+ng)
+ed)
+1.
+stering)
+LogFort: Display: Game feature 'ArsenicCore' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'ArsenicCore' transitioning state (Registering -> Registered)
+LogFort: Display: Game feature 'ArsenicCore' transitioning state (Loading -> Loaded)
+ng)
+LogFort: Display: Game feature 'SrirachaRanch' transitioning state (Loaded -> ActivatingLogFort: Display: Game feature 'Arsenic' transitioning state (Mounting -> WaitingForDependencies)
+c.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'Arsenic' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'HighTower_Cobalt' transitioning state (Mounting -> WaitingForDependencies)
+wer_Cobalt.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'HighTower_Cobalt' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'HighTower_Cobalt' transitioning state (Loading -> Loaded)
+ng)
+ed)
+LogFort: Display: Game feature 'Hydrogen' transitioning state (WaitingForDependencies -> Registering)
+es)
+gin' transitioning state (UnknownStatus -> CheckingStatus)
+eckingStatus)
+LogFort: Display: Game feature 'Hydrogen' transitioning state (Loading -> Loaded)
+ng)
+ed)
+LogFort: Display: Game feature 'HighTower_Hydro' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'HighTower_Hydro' transitioning state (Registered -> Loading)
+ed)
+LogFort: Display: Game feature 'Nitrogen' transitioning state (Mounting -> WaitingForDependencies)
+en.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'Nitrogen' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'PapayaGameplay' transitioning state (Mounting -> WaitingForDependencies)
+play.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'PapayaGameplay' transitioning state (WaitingForDependencies -> Registering)
+LogFort: Display: Game feature 'PapayaGameplay' transitioning state (Loaded -> Activating)
+
+ed)
+LogFort: Display: Game feature 'BattleRoyale' transitioning state (WaitingForDependencies -> Registering)
+ttleRoyale.uplugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'PapayaPostersBackup' transitioning state (Registered -> Loading)
+ed)
+egistering)
+payaPostersBackup.uplugin' transitioning state (UnknownStatusLogFort: Display: Game feature 'SpicySake' transitioning state (WaitingForDependencies -> Registering)
+ugin' transitioning state (UnknownStatus -> CheckingStatus)
+LogFort: Display: Game feature 'SpicySake' transitioning state (Registering -> Registered)
+LogFort: Display: Game feature 'SrirachaRanchHoagie' transitioning state (Registered ->LogFort: Display: Game feature 'SrirachaRanchValet' transitioning state (Mounting -> WaitingForDependencies)
+lLogFort: Display: Game feature 'Template' transitioning state (StatusKnown -> InstallLogFort: Display: Game feature 'Trophy' transitioning state (CheckingStatus -> StatusKnoLogFort: Display: Game feature 'file:../../../FortniteGame/Plugins/GaLogFort: Display: Game feature 'York' loaded successfully.
+Activating -> Active)
+
+ed)
+egistering)
+atus)
+LogFort: Display: UFortPlaylistManager is updating playlist assets due to new plugins
+me .ini file.  No patching needed.
+LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang duration: 45.0000s. New present duration: 0.0000s.
+LogStreaming: Display: 0.211200 ms for processing 908/1805 objects in NotifyUnreachableObjects. Removed 6/6 (52326->52320 tracked) packages and 902/902 (71462->70560 tracked) public exports.
+LogHotfixManager: Display: External CheckComplete UpdateSuccess
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Signing in to Epic services... (LoggingIn)
+008 s)
+
+LogOnlineAccount: Display: [UFortOnlineAccount::LoginStepUpdated] LoginWaitingRoom --> LoggingIn (last step duration: 0.0010 s)
+LogOnlineAccount: Display: [UOnlineAccountCommon::ProcessUserLogin] Successfully logged in user. UserId=[fd97004b-1afa-42f9-9e8c-b1943774ef9d] DisplayName=[r3p clipped you] EpicAccountId=[MCP:fd97004b-1afa-42f9-9e8c-b1943774ef9d] AuthTicket=[<Redacted>]
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Contacting services... (CheckServiceAvailability)
+LogOnlineAccount: Display: [UFortOnlineAccount::LoginStepUpdated] EulaCheck --> CheckServiceAvailability (last step duration: 0.0016 s)
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-CWCf1DgoUUC_3EGEBb7UVg code=404 error=Failure ErrorCode=errors.com.epicgames.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.epicgames.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod","error_description":"Sorry the resource you were trying to find could not be found"}
+LogOnlineAccount: Display: [UFortOnlineAccount::LoginStepUpdated] CheckServiceAvailability --> CheckEntitledToPlay (last step duration: 0.0431 s)
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Verifying Requirements... (VerifyAgeGateRequirements)
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Downloading user settings... (DownloadingClientSettings)
+on: 0.0410 s)
+LogOnlineAccount: Display: [UFortOnlineAccount::LoginStepUpdated] VerifyAgeGateRequirements --> DownloadingClientSettings (last step duration: 0.0011 s)
+LogOnlineCloud: Warning: MCP: Local file hash does not match cloud hash! Local=0fbdbed6d89b296c892ed01eae9627f3d4f1dbee, Cloud=15dbc8388d808ece7f0c14a3183f1930cb452bbe
+LogConsoleResponse: Display: Apply Settings:
+LogRHI: Display: ShaderPipelineCache::SetGameUsageMaskWithComparison set a new mask but did not attempt to setup any tasks because the cache was not open
+ious 'SetByConsole'. Value remains '0'
+LogOnlineAccount: Display: [UFortOnlineAccount::LoginStepUpdated] DownloadingClientSettings --> QueryProfile (last step duration: 0.0659 s)
+43774ef9d, trying to Add new to ProfileGroup
+LogProfileSys: Display: 	ItemUpdate: 0.0ms
+date  Complete:
+LogParty: Display: Homebase updated for Team Member: 
+LogProfileSys: Display: 	StatUpdate: 0.0ms
+date  Complete:
+LogFort: Warning: Failed to find ItemDefinition for PersistableItem with Template HomebaseBannerIcon:OtherBanner28!
+LogParty: Display: Homebase updated for Team Member: 
+LogProfileSys: Display: 	StatUpdate: 0.0ms
+date  Complete:
+LogProfileSys: Display: 	ItemUpdate: 40.0ms
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Downloading keychain... (QueryKeychain)
+LogOnlineAccount: Display: [UFortOnlineAccount::LoginStepUpdated] QueryProfile --> QueryKeychain (last step duration: 0.8478 s)
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk1004-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk1004-WindowsClient"
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk1001-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk1001-WindowsClient"
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk1000-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk1000-WindowsClient"
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk1005-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk1005-WindowsClient"
+LogIoDispatcher: Display: Reading toc: ../../../FortniteGame/Content/Paks/pakchunk1002-WindowsClient
+LogPakFile: Display: Mounted IoStore environment "../../../FortniteGame/Content/Paks/pakchunk1002-WindowsClient"
+LogStreaming: Display: FlushAsyncLoading: 0 QueuedPackages, 73 AsyncPackages
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Claiming rewards... (SilentClaimMfaReward)
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Redeeming offline purchases... (RedeemOfflinePurchases)
+ s)
+LogFort: Display: SetHasFinishedLoading bHasServerFinishedLoading: 0 bInHasFinishedLoading: 1 Player: MCP:fd97004b-1afa-42f9-9e8c-b1943774ef9d
+)
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Checking connection to 2WO... (DoQosPingTests)
+tion: 0.0208 s)
+LogOnlineAccount: Display: [UFortOnlineAccount::LoginStepUpdated] CheckingRejoin --> DoQosPingTests (last step duration: 0.0016 s)
+LogQos: Display: 	 Enabled: 1 Visible: 1 Beta: 1
+ers)
+alid
+
+
+LogOnlineAccount: Display: [UFortOnlineAccount::LoginStepUpdated]LogPaLogParty: Warning: Failed to update config for party [V1:D3D4LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'Crouch' doesn't have a valid keybinding. We're adding it as an unbound action.
+dy pending, Raw=already_pending
+ermissions":-1842843133,"invitePermissions":512,"partyFlags":2,"notAcceptingMembersReason":33,"maxMembers":16,"password":"","accessKey":"B894221B49A93C894CD2E9A1DEE1BBLogFoLogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CannonShoot' doesn't have a valid keybinding. We're adding it as an unbound action.
+nd actiLogFLogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneRollRight' doesn't have a valid keybinding. We're adding it as an unbound actiLLogFLLogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichChangeSeat' doesn't have a valid keybinding. We're adding it as an unbound actioLogFortSetLogFLogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveToolEquippedCopyGrabOrDuplicate' doesn't have a valid keybinding.LogFortSettiLogFortSettings: Warning: ULogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveObjectsFreelyExit' doesn't have a valid keybinding. WeLogFortSettingLogFortSettings: Warning: UFortClientSetLogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+eybinding. We're adding iLogFort: WarLogFort: WarLogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerILogFort: WarLogFort: WarLogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerILogFort: WarLogFort: WarLogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerILogFort: WarLogFort: WarLogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerILogFort: WarLogFort: WarLogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerILogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+code=401 error=Failure ErrorCode=errors.com.epicgames.common.oauth.invalid_token, Message=Token is missing key ID value, Raw={"errorCode":"errors.com.epicgames.common.oauth.invalid_token","errorMessage":"Token is missing key ID value","messageVars":[],"numericErrorCode":1014,"originatingService":"friends","intent":"prod"}
+LogFortPerformance: Display: Detailed Bad Match Report: no [probability: 0.000010]
+LogCore: Warning: LIGHTWEIGHT_TIME_GUARD: FTickFunctionTask - FortGameModeFrontEnd /Game/Maps/Frontend.Frontend:PersistentLevel.FortGameModeFrontEnd_2147482330[TickActor] took 52.70ms!
+LogStreaming: Display: 0.011200 ms for processing 6/382 objects in NotifyUnreachableObjects. Removed 3/3 (52561->52558 tracked) packages and 3/3 (71144->71141 tracked) public exports.
+LogJson: Warning: Field alias was not found.
+d as a 'String'.
+LogJson: Error: Json Value of type 'Null' used as a 'String'.
+LogFort: Display: Game feature 'Arsenic' loaded successLogFort: Display: Game feature 'HiLogFort: Display: Game feature 'York' loaded successfully.
+FortRootViewportLayout::SetLegacyUIState] Switching states from: Invalid to Invalid
+LogUIActionRouter: Display: [User 0] Focused desired target SubgameTile_BattleRoyale
+LogOnlineFriend: Warning: MCP: QueryRecentPlayers request failed. Failure ErrorCode=errors.com.epicgames.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.epicgames.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod","error_description":"Sorry the resource you were trying to find could not be found"}
+ind could not be found"}
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-UxbNZ1npTUGBiET4UhyH5g code=404 error=Failure ErrorCode=errors.com.epicgames.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.epicgames.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod","error_description":"Sorry the resource you were trying to find could not be found"}
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-0EIFDxz-fU_SL8Q4FXV1uA code=404 error=Failure ErrorCode=errors.com.epicgames.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.epicgames.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod","error_description":"Sorry the resource you were trying to find could not be found"}
+found"}
+LogOnlinePresence: Warning: MCP: QuerySubscriptionSettings request failed. Failure ErrorCode=errors.com.epicgames.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.epicgames.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod","error_description":"Sorry the resource you were trying to find could not be found"}
+LogParty: Warning: Fort Social Toolkit used all query attempts for friend subscription settings
+ors.com.epicgames.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.epicgames.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod","error_description":"Sorry the resource you were trying to find could not be found"}
+ not be found"}
+LogWebSockets: Warning: Lws(Warning): lws_client_handshake: got bad HTTP response '521' 
+LogOnlineIdentity: Warning: MCP: Xmpp login failed: 
+LogHotfixManager: Display: Update State UpdatePending -> UpdateComplete
+LogFort: Display: AFortGameModeFrontEnd::OnUpdateCheckComplete called. Result=2
+LogOnlinePresence: Warning: MCP: SendPresenceUpdate: User=[fd97004b-1afa-42f9-9e8c-b1943774ef9d] UpdatePresence failed
+LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+LogFort: Display: UFortAssetManager::ChangeGameSubMode - Changing to NewSubMode 1
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 135.0000s. New present duration: 0.0000s.
+LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 972 AsyncPackages
+LogFortUI: Display: [UFortRootViewportLayout::SetLegacyUIState] Switching states from: Invalid to Invalid
+LogOnlineGame: Display: QueryPrivacySettings: player fd97004b-1afa-42f9-9e8c-b1943774ef9d
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/BP14/Frontend_BP14_Room_A_Scripting) is flushing async loading
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/BP14/Frontend_BP14_Room_A_Art) is flushing async loading
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/BP14/Frontend_BP14_Room_A_FX) is flushing async loading
+LogOnlineParty: Display: MCP: Publishing party to presence PartyId(V1:D3D4AEEF4F233FCB3017929E95FC957D) AccessKey(B894221B49A93C894CD2E9A1DEE1BB55) HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(2)
+
+LogOnlineParty: Display: MCP: Publishing party to presence PartyId(V1:D3D4AEEF4F233FCB3017929E95FC957D) AccessKey(B894221B49A93C894CD2E9A1DEE1BB55) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+LogTeamPedestal: Display: AFortTeamMemberPedestal::SetTeamMember - Local Team Member FortTeamMemberAthena_2147476994 to pedestal ChildActor_GEN_VARIABLE_TeamMemberPedeLogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+LogStreaming: Display: 0.101300 ms for processing 378/2571 objects in NotifyUnreachableObjects. Removed 0/0 (54331->54331 tracked) packages and 378/378 (78753->78375 tracked) public exports.
+LogFort: Display: [FortCustomizationAssetLoader Character Parts: CP_Athena_Head_M_HightowerTapas,CP_Athena_Body_M_HightowerTapas,CP_Backpack_HightowerTapas,CP_M_MED_HightowerTapas ] from Owner[/Game/Maps/UI/BP14/Frontend_BP14_Room_A_Art.Frontend_BP14_Room_A_Art:PersistentLevel.BP14_HightowerTapas_Mannequin_C_0.FortCustomizationAssetLoader_2147477031] Finished loading. 10 assets loaded.
+ded.
+LogFort: Display: [FortCustomizationAssetLoader Character Parts: CP_Head_F_HightowerHoneydew_Swole,CP_Body_Commando_F_HightowerHoneydew_Swole,NoBackpack,CP_F_MED_HightowerHoneydew_Swole ] from Owner[/Game/Maps/UI/BP14/Frontend_BP14_Room_A_Art.Frontend_BP14_Room_A_Art:PersistentLevel.BP14_HightowerHoneydew_Mannequin_C_0.FortCustomizationAssetLoader_2147477015] Finished loading. 10 assets loaded.
+LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 12 AsyncPackages
+LogFortCosmetics: Warning: Calling GetCosmeticLoadout() to access cosmetic loadouLogFortCosmetics: Warning: Calling GetCosmeticLoadout() to access cosmetic loadout before it'LogTeamPedestal: Display: AFortTeamMemberPedestal::OnSpawnHeroPawnComplete - LocaLogHttp: Warning: Lockout of 30.000000s on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/fd97004b-1afa-42f9-9e8c-LogHttp: Warning: Lockout of 30.000000s on https://fortnite-puLogHttp: Warning: Lockout of 30.000000s on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/privacy/account/fd97004b-1afa-42f9-9e8c-b1943774ef9d
+nd.Frontend:PersistentLevel.PlayerPawn_Athena_C_2147476918.FortCustomizationAssetLoader_2147476906] Finished loading. 13 assets loaded.
+LogHttp: Warning: Lockout of 30.000000s on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/storefront/v2/catalog
+LogOnlinePresence: Warning: MCP: SendPresenceUpdate: User=[fd97004b-1afa-42f9-9e8c-b1943774ef9d] UpdatePresence failed
+LogOnlineIdentity: Warning: MCP: Xmpp login failed: 
+shake: got bad HTTP response '521' 
+LogHttp: Warning: Retry 1 on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/fd97004b-1afa-42f9-9e8c-b1943774ef9d/client/QueryProfile?profileId=collections&rvn=-1
+LogHttp: Warning: Retry 1 on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/fd97004b-1afa-42f9-9e8c-b1943774ef9d/client/QueryProfile?profileId=creative&rvn=-1
+LogHttp: Warning: Retry 1 on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/privacy/account/fd97004b-1afa-42f9-9e8c-b1943774ef9d
+LogHttp: Warning: Retry 1 on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/storefront/v2/catalog
+LogHttp: Warning: Success on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/fd97004b-1afa-42f9-9e8c-b1943774ef9d/client/QueryProfile?profileId=creative&rvn=-1
+LogProfileSys: Display: 	StatUpdate: 0.0ms
+date  Complete:
+LogProfileSys: Display: 	ItemUpdate: 0.0ms
+LogHttp: Warning: Success on https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/privacy/account/fd97004b-1afa-42f9-9e8c-b1943774ef9d
+ueryProfile?profileId=collections&rvn=-1
+LogProfileSys: Display: 	TotalTime: 0.0ms
+ [None] to [UI.State.Athena.Frontend]
+.com/fortnite/api/storefront/v2/catalog
+LogFortUI: Display: [UFortRootViewportLayout::SetLegacyUIState] Switching states from: Invalid to Invalid
+LogFort: Warning: [FortExperimentContext]:Attempted to observe invalid Experiment Num.
+LogBackgroundHttpManager: Display: Found 0 temp download files.
+LogDataTable: Warning: UDataTable::FindRow : 'UFortGlobalUIContext::GetHealthyGamingData' requested row 'US' not in DataTable '/Game/UI/Foundation/Config/HealthyGamingData.HealthyGamingData'.
+LogFortUI: Display: Leto Display Mode changed from [ELetoDisplayMode::PrimaryOnly] to [ELetoDisplayMode::SingleToggle]
+LogViewport: Display: Viewport HideCursorDuringCapture Changed, True -> False
+uringMouseDown
+LogSlateStyle: Warning: Unable to find Slate Widget Style 'PC'. Using FTextBlockStyle defaults insteadLoLogFort: Error: [FortShowdownDetailView.SetTournament] No TournamentId
+xtBlockStyle defaults instead.
+LogFort: Error: [FortShowdownDetailView.SetTournament] No TournamentId
+LogRHI: Display: ShaderPipelineCache::SetGameUsageMaskWithComparison set a new mask but did not attempt to setup any tasks because the cache was not open
+LogFort: Warning: [FortExperimentContext]:Attempted to observe invalid Experiment Num.
+st=0 | Material=0 | Shadow=0 | Foliage=0]
+LogFort: Warning: [FortExperimentContext]:Attempted to observe invalid Experiment Num.
+LogStreaming: Display: 0.137800 ms for processing 335/1578 objects in NotifyUnreachableObjects. Removed 48/48 (54767->54719 tracked) packages and 287/287 (79616->79329 tracked) public exports.
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-4SNEMYYAkE6uD-ATNbUnsA code=404 error=Failure ErrorCode=errors.com.epicgames.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.epicgames.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod","error_description":"Sorry the resource you were trying to find could not be found"}
+LogOnlinePresence: Warning: MCP: Broadcast Subscription request failed. Failure ErrorCode=errors.com.epicgames.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.epicgames.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod","error_description":"Sorry the resource you were trying to find could not be found"}
+LogHotfixManager: Display: Update State UpdateComplete -> UpdatePending
+LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+LogPatchCheck: Display: [EnvironmentWantsPatchCheck] Backend Prod wants a patch check!
+LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+LogHotfixManager: Display: Returned hotfix data is the same as last application, skipping the apply phase
+LogHotfixManager: Display: OnHotfixCheckComplete 2
+LogHotfixManager: Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+LogFort: Display: Game feature 'SrirachaRanch' loaded successfully.
+fully.
+e featureLogFoLogFort: Display: Game feature 'Trophy' loaded successfully.
+sfully.
+ly.
+
+LogFort: Display: Game feature 'York' loaded successfully.
+LogUIActionRouter: Display: [User 0] Focused desired target TeamMemberPedestal_Nameplate_C_2147477245
+LogCommonUI: Warning: Invalid default common action key for action ""
+LogViewport: Display: Viewport HideCursorDuringCapture Changed, False LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringRightMouseDown
+]
+e. Doing nothing, but this widget should be updated.
+LogUIActionRouter: Display: [User 0] Focused desired target RadialMenu_Picker
+LogHotfixManager: Display: Update State UpdateComplete -> UpdatePending
+plete
+LogHotfixManager: Display: Returning cached update result 2
+LogFort: Display: Game feature 'Argon' loaded successfully.
+y.
+
+cessfully.
+e features...
+LogFort: Display: Game feature 'Trophy' loaded successfully.
+sfully.
+ly.
+
+LogFort: Display: Game feature 'York' loaded successfully.
+LogHotfixManager: Display: Update State UpdatePending -> UpdateComplete
+
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Athena/Apollo/Environments/Meshes/Blockout/S13/GarbageIsland/Materials/M_GarbageFloat_Inst4 (0xD8F034063605B1F0) - The package to load does not exist onLogStreaming: Warning: LoadPackage: SkipPackage: /Game/Athena/Effects/Materials/Environment/Flood/MI_Flood_Trash_Surface_Rotational_Inst (0x7445166ED6E4E491) - The package to load does not exist on disk or in the loader
+
+er
+
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Athena/Apollo/Environments/BuildingActors/Fortilla/Props/Apollo_Fortilla_Interior_Frame_02 (0x64460C2235A2C6B) - The package to load does not exist on disk or in the loader
+
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Environments/Apollo/Sets/OilRig/TextureData/OilRig_Rust (0x5B4F82C8CF728499) - The package to load does not exist on disk or in the loader
+LogMatchmakingServiceClient: Error: ObtainTicket_HttpRequestComplete - Player is not authorized to play this game mode
+LogFortUI: Error: [UFortAthenaMatchmakingWidget::OnMatchmakingError] Attempting to queue error: Unauthorized, code: errors.com.epicgames.common.authorization.authorization_failed
+LogUIActionRouter: Display: Applying input config for leaf-most node [ErrorWindow_Errors]
+Capture
+957D) AccessKey(B894221B49A93C894CD2E9A1DEE1BB55) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [ErrorWindow_Errors], and the widget isn't focusable - focusing the game viewport.
+LogOnlinePresence: Warning: MCP: SendPresenceUpdate: User=[fd97004b-1afa-42f9-9e8c-b1943774ef9d] UpdatePresence failed
+LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringRightMouseDown
+]
+LogUIActionRouter: Display: [User 0] Focused desired target RadialMenu_Picker
+LogOnlineAccount: Warning: Did not redeem any new purchases
+LogViewport: Display: Viewport HideCursorDuringCapture Changed, True -> False
+uringMouseDown
+147476240], and the widget isn't focusable - focusing the game viewportLogUIActionRouter: Display: [User 0] Focused desired target TeamMemberPedestal_Nameplate_C_2147477245
+LogUIActionRouter: Display: [User 0] Focused desired target TeamMemberPedestal_Nameplate_C_2147477245
+LogUIActionRouter: Display: [User 0] Focused desired target TeamMemberPedestal_Nameplate_C_2147477245
+LogUIActionRouter: Display: Applying input config for leaf-most node [FortEmotePicker_C_2147475891]
+moteWheelInternalBindings_OpenPickerFrontend] [Released]! A given widget can only bind the same action once. Unregister existing binding first if you wish to change any aspect of the binding
+LogUIActionRouter: Display: [User 0] Focused desired target RadialMenu_Picker
+LogWebSockets: Warning: Lws(Warning): lws_client_handshake: got bad HTTP response '521' 
+LogOnlineIdentity: Warning: MCP: Xmpp login failed: 
+LogViewport: Display: Viewport HideCursorDuringCapture Changed, True -> False
+uringMouseDown
+147476240], and the widget isn't focusable - focusing the game viewportLogUIActionRouter: Display: [User 0] Focused desired target TeamMemberPedestal_Nameplate_C_2147477245
+LogUIActionRouter: Display: [User 0] Focused desired target TeamMemberPedestal_Nameplate_C_2147477245
+LogUIActionRouter: Display: [User 0] Focused desired target TeamMemberPedestal_Nameplate_C_2147477245
+LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringRightMouseDown
+]
+moteWheelInternalBindings_OpenPickerFrontend] [Released]! A given widget can only bind the same action once. Unregister existing binding first if you wish to change any aspect of the binding
+LogUIActionRouter: Display: [User 0] Focused desired target RadialMenu_Picker
+LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+LogUIActionRouter: Display: [User 0] Focused desired target TeamMemberPedestal_Nameplate_C_2147477245
+], and the widget isn't focusable - focusing the game viewport.
+LogOnlinePresence: Warning: MCP: SendPresenceUpdate: User=[fd97004b-1afa-42f9-9e8c-b1943774ef9d] UpdatePresence failed
+LogHotfixManager: Display: Returning cached update result 2
+datePending
+LogFort: Display: Game feature 'Hoagie' loaded successfully.
+y.
+LogFort: Display: Game feLogFort: Display: Game feature 'Trophy' loaded successfully.
+sfully.
+ly.
+
+LogFort: Display: Game feature 'York' loaded successfully.
+LogHotfixManager: Display: External CheckComplete UpdateSuccess_NoChange
+LogHotfixManager: Display: Update State UpdatePending -> UpdateComplete
+LogOnlineGame: Warning: Trying to kick a local player MCP:fd97004b-1afa-42f9-9e8c-b1943774ef9d Reason: Sorry, but the game server wouldn't let you in. If this happens again, try restarting the game, and if it continues please reach out to Customer Support at https://fortnitehelp.epicgames.com.
+de":"errors.com.epicgames.common.authorization.authorization_failed","errorMessage":"Authorization failed for /account/api/oauth/verify","messageVars":["/account/api/oauth/verify"],"numericErrorCode":1032,"originatingService":"any","intent":"prod","error_description":"Authorization failed for /account/api/oauth/verify"}
+LogOnlineGame: Warning: User auth check failed but unable to find PC/Beacon for UserId=MCP:fd97004b-1afa-42f9-9e8c-b1943774ef9d Error=Failure ErrorCode=errors.com.epicgames.oss.identity.invalid_auth:errors.com.epicgames.common.authorization.authorization_failed, Message=No valid auth, Raw=invalid_auth:{"errorCode":"errors.com.epicgames.common.authorization.authorization_failed","errorMessage":"Authorization failed for /account/api/oauth/verify","messageVars":["/account/api/oauth/verify"],"numericErrorCode":1032,"originatingService":"any","intent":"prod","error_description":"Authorization failed for /account/api/oauth/verify"} 
+LogFortUI: Display: UI State changing from [None] to [UI.State.Startup.Login]
+LogFortUI: Display: [UFortRootViewportLayout::SetLegacyUIState] Switching states from: Invalid to Invalid
+LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [LoginScreen_C_2147475708], and the widget isn't focusable - focusing the game viewport.
+LogOnlineIdentity: Warning: MCP: Refresh auth request failed. Failure ErrorCode=errors.com.epicgames.account.auth_token.invalid_refresh_token, Message=Sorry the refresh token 'eg1~eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmZDk3MDA0Yi0xYWZhLTQyZjktOWU4Yy1iMTk0Mzc3NGVmOWQiLCJkdmlkIjoiMWU4NTgxM2M5YTcyNDg2NGJmMmM3ODhkNmU0NTVhNDUiLCJ0IjoiciIsImNsaWQiOiJlYzY4NGI4YzY4N2Y0NzlmYWRlYTNjYjJhZDgzZjVjNiIsImFtIjoicmVmcmVzaF90b2tlbiIsImp0aSI6ImRlNGViMTQ0YWNlYTRhZTJhMDFlZTMxMTdiNzQyOTI2IiwiY3JlYXRpb25fZGF0ZSI6IjIwMjMtMTItMDZUMDA6NTU6NDguNDQwWiIsImhvdXJzX2V4cGlyZSI6MjQsImlhdCI6MTcwMTgyNDE0OCwiZXhwIjoxNzAxOTEwNTQ4fQ.YytJo4vIFqQf59WT8BBCfl2Pwj3EJpQFkuseITCoGbw' is invalid, Raw={"errorCode":"errors.com.epicgames.account.auth_token.invalid_refresh_token","errorMessage":"Sorry the refresh token 'eg1~eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmZDk3MDA0Yi0xYWZhLTQyZjktOWU4Yy1iMTk0Mzc3NGVmOWQiLCJkdmlkIjoiMWU4NTgxM2M5YTcyNDg2NGJmMmM3ODhkNmU0NTVhNDUiLCJ0IjoiciIsImNsaWQiOiJlYzY4NGI4YzY4N2Y0NzlmYWRlYTNjYjJhZDgzZjVjNiIsImFtIjoicmVmcmVzaF90b2tlbiIsImp0aSI6ImRlNGViMTQ0YWNlYTRhZTJhMDFlZTMxMTdiNzQyOTI2IiwiY3JlYXRpb25fZGF0ZSI6IjIwMjMtMTItMDZUMDA6NTU6NDguNDQwWiIsImhvdXJzX2V4cGlyZSI6MjQsImlhdCI6MTcwMTgyNDE0OCwiZXhwIjoxNzAxOTEwNTQ4fQ.YytJo4vIFqQf59WT8BBCfl2Pwj3EJpQFkuseITCoGbw' is invalid","messageVars":["eg1~eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmZDk3MDA0Yi0xYWZhLTQyZjktOWU4Yy1iMTk0Mzc3NGVmOWQiLCJkdmlkIjoiMWU4NTgxM2M5YTcyNDg2NGJmMmM3ODhkNmU0NTVhNDUiLCJ0IjoiciIsImNsaWQiOiJlYzY4NGI4YzY4N2Y0NzlmYWRlYTNjYjJhZDgzZjVjNiIsImFtIjoicmVmcmVzaF90b2tlbiIsImp0aSI6ImRlNGViMTQ0YWNlYTRhZTJhMDFlZTMxMTdiNzQyOTI2IiwiY3JlYXRpb25fZGF0ZSI6IjIwMjMtMTItMDZUMDA6NTU6NDguNDQwWiIsImhvdXJzX2V4cGlyZSI6MjQsImlhdCI6MTcwMTgyNDE0OCwiZXhwIjoxNzAxOTEwNTQ4fQ.YytJo4vIFqQf59WT8BBCfl2Pwj3EJpQFkuseITCoGbw"],"numericErrorCode":18036,"originatingService":"any","intent":"prod","error_description":"Sorry the refresh token 'eg1~eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmZDk3MDA0Yi0xYWZhLTQyZjktOWU4Yy1iMTk0Mzc3NGVmOWQiLCJkdmlkIjoiMWU4NTgxM2M5YTcyNDg2NGJmMmM3ODhkNmU0NTVhNDUiLCJ0IjoiciIsImNsaWQiOiJlYzY4NGI4YzY4N2Y0NzlmYWRlYTNjYjJhZDgzZjVjNiIsImFtIjoicmVmcmVzaF90b2tlbiIsImp0aSI6ImRlNGViMTQ0YWNlYTRhZTJhMDFlZTMxMTdiNzQyOTI2IiwiY3JlYXRpb25fZGF0ZSI6IjIwMjMtMTItMDZUMDA6NTU6NDguNDQwWiIsImhvdXJzX2V4cGlyZSI6MjQsImlhdCI6MTcwMTgyNDE0OCwiZXhwIjoxNzAxOTEwNTQ4fQ.YytJo4vIFqQf59WT8BBCfl2Pwj3EJpQFkuseITCoGbw' is invalid","error":"invalid_grant"}
+id","error":"invalid_grant"}
+LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+Changing to NewSubMode 2
+LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Items/ResourcePickups/Athena_WadsItemData (0x29E213CE86063CDA) - The package to load does not exist on disk or in the loader
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 135.0000s. New present duration: 0.0000s.
+LogOnlineParty: Display: MCP: Publishing party to presence PartyId(V1:D3D4AEEF4F233FCB3017929E95FC957D) AccessKey(B894221B49A93C894CD2E9A1DEE1BB55) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+LogFort: Warning: PlayerPawn_Athena_C destroyed Role: 3 OnDestroyed: [/Game/Maps/Frontend.Frontend:PersistentLevel.GCN_RezOut_C_2147475587.OnOwnerDestroyed]
+rd(0) IsAcceptingMembers(0) NotAcceptingReason(33)
+LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+ogout] ForceLogout (local=false) requested with reason "Our backend has been restarted, please re-launch Fortnite."
+LogOnlineAccount: Display: [UOnlineAccountCommon::UpdateNextLogoutStep] Logout: Logging out local players...
+LogStreaming: Display: 3.365200 ms for processing 16025/46067 objects in NotifyUnreachableObjects. Removed 4384/4384 (57168->52784 tracked) packages and 11641/11641 (83050->71409 tracked) public exports.
+LogUIActionRouter: Display: Applying input config for leaf-most node [Login_Interactions]
+7475708], and LogUIActionRouter: Display: Applying input config for leaLogUIActionRouter: Display: [User 0] No focus target for leaf-most node [SignIn_Credentials] LogNiagara: Warning: SkeletalMeshComponent in "Set NiagarLogOnlineAccount: Display: [UOnlineAccountCommon::UpdateNextLogoutStep] Logout: Removing authentication...
+ skeleton. Mesh(SkeletalMesh /Game/Gadgets/Assets/Elimination_Bot_Mark_II/Meshes/SK_Elimination_Bot_Turret_Mark_II.SK_Elimination_Bot_Turret_Mark_II) Sockets(FX_Head, Root_Effect) System(NiagaraSystem /Game/Effects/Fort_Effects/Effects/Characters/Generic/ResIn/NS_Drone_Teleport_Out_Athena.NS_Drone_Teleport_Out_Athena)
+ts/Effects/Characters/Generic/ResIn/NS_Drone_Teleport_Out_Athena.NS_Drone_Teleport_Out_Athena)
+LogParty: Display: Local player [r3p clipped you] disconnected from lobby. Destroying all team info except the local party.
+LogOnlineAccount: Display: [UOnlineAccountCommon::UpdateNextLogoutStep] Logout: Logging out.
+e chLogUIActionRouter: Display: Applying input config for leaf-most node [LoginScreen_C_2147475708]
+LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [LoginScreen_C_2147475708], and the widget isn't focusable - focusing the game viewport.
+LogUIActionRouter: Display: Applying input config for leaf-most node [Status_LoginInfo]
+147475708], and the widget isn't focusable - focusing the game viewport.
+LogUIActionRouter: Display: [User 0] Focused desired target Button_Continue
+LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang duration: 45.0000s. New present duration: 0.0000s.
+LogStreaming: Display: 0.018300 ms for processing 40/52 objects in NotifyUnreachableObjects. Removed 20/20 (52784->52764 tracked) packages and 20/20 (71409->71389 tracked) public exports.
+LogFort: Error: Settings save attempted before settings initialized, ignored!
+LogRHI: Display: Applied New ShaderPipelineCache GameUsageMask [UserMask=65535 | Playlist=2 | Material=0 | Shadow=0 | Foliage=0]
+e the cache was not open
+LogParty: Display: HandleZonePlayerStateRemoved: [MCP:fd970...4ef9d]
+troying all team info except the local party.
+LogBlueprintContext: Display: Destroying blueprint contexts for Local Player ' FortLocalPlayer_2147482443 ' of Game Instance ' FortGameInstance_2147482550 '
+LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+LogOnline: Display: OSS: Removing 2 named interfaces
+LogLiveLinkCurveDebugUI: Display: Attempting to remove LiveLinkCurveDebugUI from viewport.
+LogGauntlet: Display: Gauntlet Shutdown
