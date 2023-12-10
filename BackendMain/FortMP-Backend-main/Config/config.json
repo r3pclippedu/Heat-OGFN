@@ -1,0 +1,15 @@
+{
+    "moderators": ["discordId"],
+    "discord": {
+        "bot_token": "MTE4MjgzOTgyNzYwMzkzNTI2Mg.GZ6ld8.BHOshRDAvAUE9DOKFsoskfUeWUM-O1-EL4jbXQ"
+    },
+    "mongodb": {
+        "database": "mongodb://127.0.0.1/lawindb"
+    },
+    "clientsettings": {
+        "WARNING": "This can be exploited, make sure you trust the people (if anyone) who are going to be using this backend.",
+        "SaveFortniteSettings": true
+    },
+    "matchmakerIP": "147.185.221.17:38553",
+    "gameServerIP": "147.185.221.16:62356"
+}
