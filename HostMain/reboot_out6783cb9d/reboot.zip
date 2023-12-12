@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style.css?f32bd26583">
+<link rel="icon" href="/logo.svg" type="image/svg+xml">
+
+<title>nightly.link</title>
+<body>
+
+<article>
+<h1>Error 404 &ndash; Not Found</h1>
+
+<p>No successful runs found for workflow &#39;msbuild.yml&#39; and branch &#39;main&#39;.
+<p>Check on GitHub: <a rel="nofollow" href="https://github.com/Milxnor/Project-Reboot-3.0/actions?query=event%3Apush+is%3Asuccess+branch%3Amain">https://github.com/Milxnor/Project-Reboot-3.0/actions?query=event%3Apush+is%3Asuccess+branch%3Amain</a></p>
+
+<p><a href="/">Return to the home page</a>
+
+</article>
+</body>
+</html>
